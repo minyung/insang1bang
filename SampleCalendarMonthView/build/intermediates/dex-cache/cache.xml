@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\study\android\DoIt_Android_Rev2_Source\Part2\chapter04\SampleCalendarMonthView\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="D:\study\android\DoIt_Android_Rev2_Source\Part2\chapter04\SampleCalendarMonthView\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-c4eda1e99aeec016f9f179ede66bac90a2c5da98.jar" />
+    </item>
+    <item
+        jar="D:\Users\resone\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="D:\study\android\DoIt_Android_Rev2_Source\Part2\chapter04\SampleCalendarMonthView\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-3b33e2a7a48aa17e48a3a0adfd46faa093f88d98.jar" />
+    </item>
+    <item
+        jar="D:\OpProject\trunk\SampleCalendarMonthView\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="D:\OpProject\trunk\SampleCalendarMonthView\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-04b917c45b202a68e7f4fab77283e2f46ed57afe.jar" />
+    </item>
+    <item
+        jar="D:\OpProject\trunk\SampleCalendarMonthView\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="D:\OpProject\trunk\SampleCalendarMonthView\app\build\intermediates\pre-dexed\debug\classes-69edcbea8d5bbdd5facf2fe2323b1cc0d2a0d20c.jar" />
+    </item>
+    <item
+        jar="D:\OpProject\trunk\SampleCalendarMonthView\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="D:\OpProject\trunk\SampleCalendarMonthView\app\build\intermediates\pre-dexed\debug\classes-243f04f0f82106ade4bc21b48e497453ccfee83f.jar" />
+    </item>
+    <item
+        jar="D:\study\android\DoIt_Android_Rev2_Source\Part2\chapter04\SampleCalendarMonthView\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="D:\study\android\DoIt_Android_Rev2_Source\Part2\chapter04\SampleCalendarMonthView\app\build\intermediates\pre-dexed\debug\classes-bd1c82b3c50bc6bbf757b6c4b7e3e8f2728b652b.jar" />
+    </item>
+    <item
+        jar="D:\study\android\DoIt_Android_Rev2_Source\Part2\chapter04\SampleCalendarMonthView\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="D:\study\android\DoIt_Android_Rev2_Source\Part2\chapter04\SampleCalendarMonthView\app\build\intermediates\pre-dexed\debug\classes-a8e3f5a520c82e35a4c823cb46fcb6daa8d1eb5a.jar" />
+    </item>
+
+</items>
