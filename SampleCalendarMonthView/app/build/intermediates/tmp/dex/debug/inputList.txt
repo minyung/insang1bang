@@ -1,0 +1,5 @@
+D:\OpProject\trunk\SampleCalendarMonthView\app\build\intermediates\classes\debug
+D:\OpProject\trunk\SampleCalendarMonthView\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-3b33e2a7a48aa17e48a3a0adfd46faa093f88d98.jar
+D:\OpProject\trunk\SampleCalendarMonthView\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-04b917c45b202a68e7f4fab77283e2f46ed57afe.jar
+D:\OpProject\trunk\SampleCalendarMonthView\app\build\intermediates\pre-dexed\debug\classes-69edcbea8d5bbdd5facf2fe2323b1cc0d2a0d20c.jar
+D:\OpProject\trunk\SampleCalendarMonthView\app\build\intermediates\pre-dexed\debug\classes-243f04f0f82106ade4bc21b48e497453ccfee83f.jar
